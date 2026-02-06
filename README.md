@@ -12,3 +12,5 @@ Os valores são solicitados por meio de janelas de diálogo e o resultado da som
 Atividade 4-
 Essa atividade é uma aplicação simples em HTML e JavaScript que simula uma máquina de preparo de sucos.
 O usuário pode escolher uma ou mais frutas, selecionar o tipo de líquido, decidir se deseja açúcar e, ao final, receber uma mensagem personalizada com o suco montado.
+
+Atividade 5-Essa atividade é uma calculadora simples em JavaScript que permite calcular o intervalo entre duas datas, exibindo a diferença em dias, meses e anos
